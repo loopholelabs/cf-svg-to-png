@@ -1,0 +1,21 @@
+{
+	"name": "cf-svg-to-png",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"cf-typegen": "wrangler types"
+	},
+	"devDependencies": {
+		"@cloudflare/workers-types": "^4.20241218.0",
+		"itty-router": "^5.0.18",
+		"typescript": "^5.7.2",
+		"wrangler": "^3.99.0"
+	},
+	"dependencies": {
+		"svg2png-wasm": "^1.4.1"
+	},
+	"packageManager": "yarn@4.5.3"
+}
