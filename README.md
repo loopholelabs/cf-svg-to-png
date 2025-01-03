@@ -1,6 +1,6 @@
-# CF URL Rewrites
+# CF SVG to PNG
 
-A CF Worker for URL Rewrites
+A CF Worker for SVG to PNG Conversion
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Discord](https://dcbadge.vercel.app/api/server/JYmFhtdPeu?style=flat)](https://loopholelabs.io/discord)
