@@ -49,10 +49,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cloudflare/workers-types@npm:^4.20241218.0":
-  version: 4.20241218.0
-  resolution: "@cloudflare/workers-types@npm:4.20241218.0"
-  checksum: 10c0/c5ffc4330e49d0e6e9a6da88b51a9229c495f6d63324ab318cef30c41a18a770f4ddb07f38816ebdb6d52f5e5528418529364ba929f625f4255aec2d7c8502e3
+"@cloudflare/workers-types@npm:^4.20250313.0":
+  version: 4.20250313.0
+  resolution: "@cloudflare/workers-types@npm:4.20250313.0"
+  checksum: 10c0/f5cb0a640b6174288fdf672cea0cacdf3f5ff1719f90b57aa9c462a17c19b04dc89edaec7c4ad5d41e28c050b9ac70f2a1db169efad5fde3ef7700ba0953b7a1
   languageName: node
   linkType: hard
 
@@ -469,7 +469,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "cf-svg-to-png@workspace:."
   dependencies:
-    "@cloudflare/workers-types": "npm:^4.20241218.0"
+    "@cloudflare/workers-types": "npm:^4.20250313.0"
     itty-router: "npm:^5.0.18"
     svg2png-wasm: "npm:^1.4.1"
     typescript: "npm:^5.7.2"
